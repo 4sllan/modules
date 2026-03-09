@@ -1,5 +1,5 @@
 name: nuxt-feather-icons
-description: Feather Icons support for Nuxt with easy usage and dynamic components.
+description: Feather Icons as auto-imported components with dynamic rendering.
 repo: 4sllan/nuxt-feather-icons
 npm: nuxt-feather-icons
 icon: nuxt-feather-icons.png
